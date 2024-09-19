@@ -8,13 +8,10 @@ class CounterCubit extends Cubit<CounterState> {
 
   int teamACounter = 0;
   int teamBCounter = 0;
-// int initialValue =0;
+
   void teamBIncrement(int buttonNumber) {
     teamBCounter += buttonNumber;
     emit(CounterBIncrement());
-    // if (team == 'A') {
-// {required String team,
-    // }
   }
 
   void teamAIncrement(int buttonNumber) {
