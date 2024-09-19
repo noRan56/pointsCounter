@@ -10,4 +10,9 @@ https://github.com/user-attachments/assets/f825a7fe-bb2f-4b6a-b152-8cc0de159411
 
 
 
+## :hammer: Features
+= Simple UI 
+= StateManagement {Cubit}
+= Clean code 
+
 
